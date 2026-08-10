@@ -23,29 +23,13 @@ My interests include:
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-**Languages**
-
-* Python
-* SQL
-* C++
-* Java
-
-**Analytics**
-
-* Pandas
-* NumPy
-* Matplotlib
-* Excel
-* Power BI
-
-**Other Tools**
-
-* Git
-* GitHub
-* Jupyter Notebook
-* Google Colab
+**Analytics & BI:** Python, SQL, Excel, Tableau, Power BI  
+**Python:** Pandas, NumPy, Matplotlib, Scikit-learn  
+**Methods:** EDA, Regression Analysis, Predictive Analytics, Data Visualization, Dashboard Development, KPI Analysis  
+**Marketing Analytics:** Consumer Insights, Brand Analytics, A/B Testing, Audience & Behavioral Insights  
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Jira
 
 ---
 
