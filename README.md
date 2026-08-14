@@ -1,6 +1,6 @@
-# Hi, I'm Maliyah Calliste Timothy 👋
+# Hi, I'm Maliyah Calliste Timothy
 
-🎓 **Artificial Intelligence & Business Analytics Student** at the University of South Florida
+🎓 **Business Analytics & Information Systems** student at the University of South Florida
 
 I'm passionate about using **data, technology, and AI** to help brands better understand their customers and make smarter business decisions.
 
@@ -68,4 +68,3 @@ My long-term goal is to combine analytics, technology, and business strategy to 
 💼 LinkedIn:
 https://www.linkedin.com/in/maliyah-calliste-timothy
 
-📫 Feel free to connect if you'd like to discuss analytics, consumer behavior, AI, or brand strategy!
